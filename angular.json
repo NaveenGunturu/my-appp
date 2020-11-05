@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-appp"
+    }
+  },
+  "defaultProject": "my-appp",
+  "cli": {
+    "analytics": false
+  }
 }
